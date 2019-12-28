@@ -1,4 +1,4 @@
-![jetScholar Logo](assets/images/jetScholar_logo.png)
+![jetScholar Logo](./public/images/jetScholar_logo.png)
 
 # Work Log
 
@@ -6,8 +6,8 @@ This is a work log to keep track of what is being done.
 
 **Useful Links**
 
-- [jetScholar-localhost](http://localhost:8888)
-- [phpMyAdmin](http://localhost:8888/phpMyAdmin/?lang=en)
+- [Run Server](http://localhost:3000)
+- [Web Dev Tutorial](https://www.youtube.com/watch?v=-RCnNyD0L-s&t=159s)
 - [GitHub - Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 **Task List**
@@ -20,6 +20,6 @@ This is a work log to keep track of what is being done.
 
 Date | Work Done | Description
 ---------- | -------------
-1.6.19 | learn md, review nbPage |
-9.6.19 | Construct Node.js version |
+28.12.19 | Started tutorial in Kiama |
+29.12.19 | Completed tutorial, app works |
 Content | Content |
