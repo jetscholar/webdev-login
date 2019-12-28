@@ -70,14 +70,14 @@ app.delete('/logout', (req,res) => {
 })
 
 function checkAuthenticated(req, res, next) {
-    if (req.isAuthentcated()) {
+    if (req.isAuthenticated()) {
         return next()
     }
     res.redirect('/login')
 }
 
 function checkNotAuthenicated(req,res,next) {
-    if (req.isAuthentcated()) {
+    if (req.isAuthenticated()) {
         return res.redirect('/')
     }
     next()
