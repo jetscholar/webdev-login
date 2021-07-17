@@ -1,7 +1,7 @@
 {
   "name": "weddevLogin",
   "version": "1.0.0",
-  "description": "Web Dev Simplified - https://www.youtube.com/watch?v=-RCnNyD0L-s&t=159s",
+  "description": "Web Dev Simplified - https://www.youtube.com/watch?v=-RCnNyD0L-s&t=159",
   "main": "server.js",
   "scripts": {
     "devstart": "nodemon server.js"
